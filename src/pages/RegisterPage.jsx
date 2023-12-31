@@ -31,7 +31,7 @@ const RegisterPage = () => {
   return (
     <>
       <div className="card mt-5 p-3 w-50" style={{ margin: "auto" }}>
-        <h6 className="text-center">{!isAdmin ? "User" : "Admin"} Register </h6>
+        <h6 className="text-center">{!isAdmin ? "User" : "Admin"} Register To Your Account </h6>
         <div>
           <div className="mb-3">
             <label for="name" className="form-label">
